@@ -1,0 +1,10 @@
+# PHPUNIT
+.phpunit.cache/*
+.phpunit.result.cache
+
+# Composer
+/vendor
+
+# Execute PHP Files
+execute.php
+
