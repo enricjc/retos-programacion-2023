@@ -1,0 +1,25 @@
+{
+    "name": "enric/enricjc",
+    "autoload": {
+        "psr-4": {
+            "Enric\\Enricjc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Enric Jódar",
+            "email": "enricjc@gmail.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.2.9"
+        }
+},
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    }
+}
